@@ -1,1 +1,1 @@
-**Cheats für amsPLUS & AtmoXL**
+**Cheats für amsPLUS, amsPLUS-M & AtmoXL**
