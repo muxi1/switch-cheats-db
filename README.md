@@ -1,3 +1,3 @@
-**Cheats für amsPLUS & amsPLUS-M**
+**Cheats für amsPLUS**
 
-Diese Datenbank wird über das in den CFW Paketen "amsPLUS" & "amsPLUS-M" enthaltene Tool "Cheats-Updater" heruntergeladen und verarbeitet.
+Diese Datenbank wird über das in dem CFW Paket "amsPLUS" enthaltene Tool "Cheats-Updater" heruntergeladen und verarbeitet.
